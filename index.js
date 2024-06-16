@@ -1,3 +1,4 @@
+// this is an interval function 
 setInterval(() => {
     d = new Date();
     htime = d.getHours();
